@@ -1,0 +1,5 @@
+El proyecto consiste en una aplicación de consola desarrollada en JavaScript que permite aplicar los conceptos fundamentales del lenguaje. Se implementaron estructuras de control, funciones reutilizables, arreglos y objetos para resolver distintas tareas. El código está organizado de forma modular y cuenta con validaciones para evitar errores en la entrada de datos.
+
+
+
+https://github.com/marcela0vasquezv-hash/Modulo-3.git
